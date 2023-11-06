@@ -55,7 +55,7 @@ Using RavenPro software and the WarbleR R-package, I obtained Sarus Crane duets 
 
 The findings revealed that Sarus Crane triets involve an adult breeding pair leading the duet, with a third individual joining and following closely. Triets had lower frequencies than duets, suggesting a helper role in territory defense. The leading pair showed more singing pattern similarities than the third individual, indicating that young cranes may join pairs to learn duets. This research offers rare insights into Sarus Crane communication systems and forms the basis for further investigation.
 
-![Cumulative notes of the singers in a triet](./assets/trietcumcall.jpg)
+![Cumulative notes of the singers in a triet](.assets/dtwtwowayMF.jpeg)
 
 ![The dynamic time warping (dtw) distance between leading male and female in a triet](./assets/dtwtwowayMF.jpg)
 
