@@ -39,12 +39,12 @@ To assess broad-scale duet properties, I employed spectrographic cross-correlati
 
 My findings revealed seemingly random patterns in broad-scale duet properties, while fine-scale properties exhibited distinct trends correlating with geographic proximity and likely ecological influences. I also identified sex-specific distinctions in the notes, with geographic variations. As a result, I have prepared two manuscripts, currently under review for imminent publication. This research provides valuable insights into the intricate dynamics of Sarus Crane communication in this region and forms the basis of my doctoral thesis. 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 
 ### Understanding different ecological factors that can shape duet properties in non-passerine Sarus Crane
 
 In my extensive study, I explored Sarus Crane duet property variations, considering ecological factors like territory quality, chick presence/absence, and Sentinel satellite imagery for land cover data. I obtained high-resolution imagery from Google Earth Engine (10m spatial resolution, 5% cloud cover) between December 2021 and February 2022, processed using the median reducer operator. Classification employed NDVI, NDWI, and NDMI indices alongside multispectral imagery to identify land categories (e.g., Vegetation, Cropland, Fallow Land, Built-up, Wetland, and Waterbody). Linear regression analyses compared land use proportions and ecological measurements with Sarus Crane duet properties, assessed using Raven Pro and R software. Results will be published in an upcoming journal manuscript, currently in preparation.
+
+![classified image of Gujarat](/assets/gujarat_classification_buffered_lowsize.jpeg)
 
 ### Decoding triet singing behaviour in Sarus Crane, a unique vocal collaboration between three individuals
 [Publication](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3707)
@@ -55,8 +55,15 @@ Using RavenPro software and the WarbleR R-package, I obtained Sarus Crane duets 
 
 The findings revealed that Sarus Crane triets involve an adult breeding pair leading the duet, with a third individual joining and following closely. Triets had lower frequencies than duets, suggesting a helper role in territory defense. The leading pair showed more singing pattern similarities than the third individual, indicating that young cranes may join pairs to learn duets. This research offers rare insights into Sarus Crane communication systems and forms the basis for further investigation.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Cumulative notes of the singers in a triet](/assets/trietcumcall.jpeg)
 
+![The distance between leading male and female in a triet](/assets/dtwtwowayMF.jpeg)
+
+![The distance between leading male and third singer in a triet](/assets/dtwtwowayME.jpeg)
+
+![The distance between leading female and third singer in a triet](/assets/dtwtwowayFE.jpeg)
+
+![Differences between duet and triet](/assets/pcatrio1-2.tiff)
 
 ### Patterns of spatial and temporal interactions in a sympatric wildlife assemblage of the Indian trans-Himalaya (Completed)
 
