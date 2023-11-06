@@ -1,6 +1,6 @@
-# Behavioural Ecologist
+#### I am a dedicated Ecologist pursuing a doctoral degree with a strong background in ecological and acoustic data collection, analysis, and interpretation. My previous research has focused on prey-predator interactions, and I am currently specializing in Bioacoustics, with a specific focus on the duetting behavior of the Sarus Crane, a prominent waterbird species in North Indian farmlands and wetlands. I possess advanced skills in utilizing R for data analysis and am well-versed in various GIS software applications. Additionally, I excel in report writing and academic publishing.
 
-#### Technical Skills: Ecology, Bioacoustics, Data analysis, GIS, R
+## Technical Skills: Ecology, Bioacoustics, Data analysis, GIS, R
 
 ## Education
 - M.Sc., Forestry	| Forest Research Institute, Dehradun (_2014 - 2016_)	 			        		
