@@ -44,7 +44,7 @@ My findings revealed seemingly random patterns in broad-scale duet properties, w
 
 In my extensive study, I explored Sarus Crane duet property variations, considering ecological factors like territory quality, chick presence/absence, and Sentinel satellite imagery for land cover data. I obtained high-resolution imagery from Google Earth Engine (10m spatial resolution, 5% cloud cover) between December 2021 and February 2022, processed using the median reducer operator. Classification employed NDVI, NDWI, and NDMI indices alongside multispectral imagery to identify land categories (e.g., Vegetation, Cropland, Fallow Land, Built-up, Wetland, and Waterbody). Linear regression analyses compared land use proportions and ecological measurements with Sarus Crane duet properties, assessed using Raven Pro and R software. Results will be published in an upcoming journal manuscript, currently in preparation.
 
-![classified image of study districts in Gujarat](./assets/gujarat_classification_buffered_lowsize.jpeg)
+![classified image of study districts in Gujarat](./assets/gujarat_classification_buffered_lowsize.jpg)
 
 ### Decoding triet singing behaviour in Sarus Crane, a unique vocal collaboration between three individuals
 [Publication](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3707)
