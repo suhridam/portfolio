@@ -68,7 +68,6 @@ The findings revealed that Sarus Crane triets involve an adult breeding pair lea
 ### Patterns of spatial and temporal interactions in a sympatric wildlife assemblage of the Indian trans-Himalaya (Completed)
 
 This study in the Indian Trans-Himalaya's Spiti Valley aimed to understand competition and predation dynamics among sympatric mammal and bird species through camera trapping at 57 sites for 3 years. Results revealed Snow leopards and red foxes exhibited temporal and spatial overlap. Large livestock shared temporal activity with blue sheep and ibex but had distinct spatial patterns. Red foxes showed generalist behaviour. Stone marten and woolly hare exhibited nocturnal patterns with high temporal overlap. Royle's pika had restricted space and time use. Stone marten may be benefiting from higher temporal overlap with the prey woolly hare and seems to be co-existing with the larger predator red fox. Temporal activity patterns of different species seem to be driven by a trade-off between consuming prey and avoidance of larger predators.
-
 ![The temporal activity pattern of different animals](./assets/Figure C.tiff)
 
 [Publication](https://link.springer.com/article/10.1016/j.mambio.2018.09.013)
