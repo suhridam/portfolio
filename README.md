@@ -44,7 +44,7 @@ My findings revealed seemingly random patterns in broad-scale duet properties, w
 
 In my extensive study, I explored Sarus Crane duet property variations, considering ecological factors like territory quality, chick presence/absence, and Sentinel satellite imagery for land cover data. I obtained high-resolution imagery from Google Earth Engine (10m spatial resolution, 5% cloud cover) between December 2021 and February 2022, processed using the median reducer operator. Classification employed NDVI, NDWI, and NDMI indices alongside multispectral imagery to identify land categories (e.g., Vegetation, Cropland, Fallow Land, Built-up, Wetland, and Waterbody). Linear regression analyses compared land use proportions and ecological measurements with Sarus Crane duet properties, assessed using Raven Pro and R software. Results will be published in an upcoming journal manuscript, currently in preparation.
 
-![classified image of Gujarat](/assets/gujarat_classification_buffered_lowsize.jpeg)
+![classified image of study districts in Gujarat](/assets/gujarat_classification_buffered_lowsize.jpeg)
 
 ### Decoding triet singing behaviour in Sarus Crane, a unique vocal collaboration between three individuals
 [Publication](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3707)
@@ -57,17 +57,19 @@ The findings revealed that Sarus Crane triets involve an adult breeding pair lea
 
 ![Cumulative notes of the singers in a triet](/assets/trietcumcall.jpeg)
 
-![The distance between leading male and female in a triet](/assets/dtwtwowayMF.jpeg)
+![The dynamic time warping (dtw) distance between leading male and female in a triet](/assets/dtwtwowayMF.jpeg)
 
-![The distance between leading male and third singer in a triet](/assets/dtwtwowayME.jpeg)
+![The dtw  distance between leading male and third singer in a triet](/assets/dtwtwowayME.jpeg)
 
-![The distance between leading female and third singer in a triet](/assets/dtwtwowayFE.jpeg)
+![The dtw distance between leading female and third singer in a triet](/assets/dtwtwowayFE.jpeg)
 
-![Differences between duet and triet](/assets/pcatrio1-2.tiff)
+![Differences between duet and tried. PC1 decreases with bandwidth, PC2 decreases with duration](/assets/pcatrio1-2.tiff)
 
 ### Patterns of spatial and temporal interactions in a sympatric wildlife assemblage of the Indian trans-Himalaya (Completed)
 
 This study in the Indian Trans-Himalaya's Spiti Valley aimed to understand competition and predation dynamics among sympatric mammal and bird species through camera trapping at 57 sites for 3 years. Results revealed Snow leopards and red foxes exhibited temporal and spatial overlap. Large livestock shared temporal activity with blue sheep and ibex but had distinct spatial patterns. Red foxes showed generalist behaviour. Stone marten and woolly hare exhibited nocturnal patterns with high temporal overlap. Royle's pika had restricted space and time use. Stone marten may be benefiting from higher temporal overlap with the prey woolly hare and seems to be co-existing with the larger predator red fox. Temporal activity patterns of different species seem to be driven by a trade-off between consuming prey and avoidance of larger predators.
+
+![The temporal activity pattern of different animals](/assets/Figure C.tiff)
 
 [Publication](https://link.springer.com/article/10.1016/j.mambio.2018.09.013)
 
