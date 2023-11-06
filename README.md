@@ -1,4 +1,4 @@
-#### I am a trained Ecologist pursuing a doctoral degree with a strong background in ecological and acoustic data collection, analysis, and interpretation. My previous research has focused on prey-predator interactions, and I am currently specializing in Bioacoustics, with a specific focus on the duetting behaviour of the Sarus Crane, a prominent waterbird species in North Indian farmlands and wetlands. I possess advanced skills in utilizing R for data analysis and am well-versed in various GIS software applications. Additionally, I excel in report writing and academic publishing.
+##### I am a trained Ecologist pursuing a doctoral degree with a strong background in ecological and acoustic data collection, analysis, and interpretation. My previous research has focused on prey-predator interactions, and I am currently specializing in Bioacoustics, with a specific focus on the duetting behaviour of the Sarus Crane, a prominent waterbird species in North Indian farmlands and wetlands. I possess advanced skills in utilizing R for data analysis and am well-versed in various GIS software applications. Additionally, I excel in report writing and academic publishing.
 
 ## Technical Skills: Ecology, Bioacoustics, Data analysis, GIS, R
 
@@ -55,15 +55,17 @@ Using RavenPro software and the WarbleR R-package, I obtained Sarus Crane duets 
 
 The findings revealed that Sarus Crane triets involve an adult breeding pair leading the duet, with a third individual joining and following closely. Triets had lower frequencies than duets, suggesting a helper role in territory defense. The leading pair showed more singing pattern similarities than the third individual, indicating that young cranes may join pairs to learn duets. This research offers rare insights into Sarus Crane communication systems and forms the basis for further investigation.
 
-![Cumulative notes of the singers in a triet](.assets/dtwtwowayMF.jpeg)
+![The images consist of two sets of video screenshots, each spanning 10 seconds, that depict the course of a Sarus Crane duet (A) and a two male one female triet (B) in India. The male birds with open wings displaying tertials can be seen in both set](.assets/trio-duet-behav_seq1.jpg)
 
-![The dynamic time warping (dtw) distance between leading male and female in a triet](./assets/dtwtwowayMF.jpg)
+![The image shows notes in real-time (left) and cumulative notes (right) sung by male (m - blue), female (f - green) and third individual (e - red)](./assets/dtwtwowayMF.jpg)
 
-![The dtw  distance between leading male and third singer in a triet](./assets/dtwtwowayME.jpg)
+![A representation of Dynamic Time Warping (DTW) algorithm in determining similarity between singing patterns. Left: Comparison of leading male (black solid line) and female (dashed red line); middle: Comparison of leading female and third/extra individual (red dashed line); right: leading male and the extra individual (red dashed line)
+](.assets/dtwexample.jpg)
 
-![The dtw distance between leading female and third singer in a triet](./assets/dtwtwowayFE.jpg)
+![One representative duet (upper) and triet (lower panel) are shown from UP (A) and Haryana (E).  Spectrograms of duets and triets have light-grey shaded boxes that highlight notes of individuals. The note length and timing of notes by individual singers are indicated by coloured lines above each note (violet – males; blue – females).
+](.assets/triet_duet.png)
 
-![Differences between duet and triet. PC1 decreases with bandwidth, PC2 decreases with duration](./assets/pcatrio1-2.tif)
+![PCA biplot of Sarus Crane duet (circles), and triets (triangles). The centroids of the ellipses (95% confidence limits) for the triets and duets are denoted by a large triangle and circle, respectively. The primary loading of PC1, PC2, and PC3 were maximum frequency, number of notes, and minimum frequency, respectively.](.assets/triet_duet.png)
 
 ### Patterns of spatial and temporal interactions in a sympatric wildlife assemblage of the Indian trans-Himalaya (Completed)
 
