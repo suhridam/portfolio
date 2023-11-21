@@ -55,9 +55,9 @@ Using RavenPro software and the WarbleR R-package, I obtained Sarus Crane duets 
 
 The findings revealed that Sarus Crane triets involve an adult breeding pair leading the duet, with a third individual joining and following closely. Triets had lower frequencies than duets, suggesting a helper role in territory defense. The leading pair showed more singing pattern similarities than the third individual, indicating that young cranes may join pairs to learn duets. This research offers rare insights into Sarus Crane communication systems and forms the basis for further investigation.
 
-![The images consist of two sets of video screenshots, each spanning 10 seconds, that depict the course of a Sarus Crane duet (A) and a two male one female triet (B) in India. The male birds with open wings displaying tertials can be seen in both set](.assets/trio-duet-behav_seq1.jpg)
+![The images consist of two sets of video screenshots, each spanning 10 seconds, that depict the course of a Sarus Crane duet (A) and a two male one female triet (B) in India. The male birds with open wings displaying tertials can be seen in both set](./assets/trio-duet-behav_seq1.jpg)
 
-![One representative duet (upper) and triet (lower panel) are shown from UP (A) and Haryana (E).  Spectrograms of duets and triets have light-grey shaded boxes that highlight notes of individuals. The note length and timing of notes by individual singers are indicated by coloured lines above each note (violet – males; blue – females).](.assets/triet_duet.png)
+![One representative duet (upper) and triet (lower panel) are shown from UP (A) and Haryana (E).  Spectrograms of duets and triets have light-grey shaded boxes that highlight notes of individuals. The note length and timing of notes by individual singers are indicated by coloured lines above each note (violet – males; blue – females).](./assets/triet_duet.png)
 
 
 ### Patterns of spatial and temporal interactions in a sympatric wildlife assemblage of the Indian trans-Himalaya (Completed)
