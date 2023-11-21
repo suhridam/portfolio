@@ -11,7 +11,7 @@
 **Doctoral Researcher @ Nature Conservation Foundation (_2017 - Present_)**
 - PhD scholar specializing in Ecology and Bioacoustics
 - Current research focuses on the synchronised duet singing behaviour of the male and female Sarus Crane from farmland and wetlands of India (in final stage).  
-- Proficient in ecological and behavioral data collection
+- Proficient in ecological and behavioural data collection
 - Expertise in handling acoustic data
 - Skilled in statistical and spatial data analysis
 - Experience in project planning and proposal writing
@@ -28,7 +28,7 @@
 - As a dissertation intern managed and analyzed multi-year multi-species camera-trap dataset from TransHimalayan regions.
 - Conducted research on inter-species interaction and Ecological niche overlap.
 - Performed literature reviews
-- Communicated research findings through academic journal and conference presentations.
+- Communicated research findings through academic journals and conference presentations.
   
 ## Projects
 ### Geographic variation and sexual differences in the complex duet song of Sarus Crane, a non-passerine waterbird
@@ -51,28 +51,25 @@ In my extensive study, I explored Sarus Crane duet property variations, consider
 
 This study on Sarus Crane communication in tropical and subtropical regions focuses on triets, a coordinated vocalization involving three individuals. This research, part of a multi-year project in three Indian states, used field observations and acoustic measurements to distinguish between duets and triets.
 
-Using RavenPro software and the WarbleR R-package, I obtained Sarus Crane duets and triets measurements which were again utlized in Principal Components Analysis (PCA) and Kruskal-Wallis tests. I also measured calling pattern similarity between singers using the Dynamic Time Warping algorithm (DTW) and used conditional probability to understand the effects of male and female notes on other participants.
+Using RavenPro software and the WarbleR R-package, I obtained Sarus Crane duets and triets measurements which were again utilised in Principal Components Analysis (PCA) and Kruskal-Wallis tests. I also measured calling pattern similarity between singers using the Dynamic Time Warping algorithm (DTW) and used conditional probability to understand the effects of male and female notes on other participants.
 
-The findings revealed that Sarus Crane triets involve an adult breeding pair leading the duet, with a third individual joining and following closely. Triets had lower frequencies than duets, suggesting a helper role in territory defense. The leading pair showed more singing pattern similarities than the third individual, indicating that young cranes may join pairs to learn duets. This research offers rare insights into Sarus Crane communication systems and forms the basis for further investigation.
+The findings revealed that Sarus Crane triets involve an adult breeding pair leading the duet, with a third individual joining and following closely. Triets had lower frequencies than duets, suggesting a helper role in territory defence. The leading pair showed more singing pattern similarities than the third individual, indicating that young cranes may join pairs to learn duets. This research offers rare insights into Sarus Crane communication systems and forms the basis for further investigation.
 
-![The images consist of two sets of video screenshots, each spanning 10 seconds, that depict the course of a Sarus Crane duet (A) and a two male one female triet (B) in India. The male birds with open wings displaying tertials can be seen in both set](./assets/trio-duet-behav_seq1.jpg)
+![The images consist of two sets of video screenshots, each spanning 10 seconds, that depict the course of a Sarus Crane duet (A) and a two male one female triet (B) in India. The male birds with open wings displaying tertials can be seen in both sets](./assets/trio-duet-behav_seq1.jpg)
 
 ![One representative duet (upper) and triet (lower panel) are shown from UP (A) and Haryana (E).  Spectrograms of duets and triets have light-grey shaded boxes that highlight notes of individuals. The note length and timing of notes by individual singers are indicated by coloured lines above each note (violet – males; blue – females).](./assets/triet_duet.png)
 
 
 ### Patterns of spatial and temporal interactions in a sympatric wildlife assemblage of the Indian trans-Himalaya (Completed)
 
-This study in the Indian Trans-Himalaya's Spiti Valley aimed to understand competition and predation dynamics among sympatric mammal and bird species through camera trapping at 57 sites for 3 years. Results revealed Snow leopards and red foxes exhibited temporal and spatial overlap. Large livestock shared temporal activity with blue sheep and ibex but had distinct spatial patterns. Red foxes showed generalist behaviour. Stone marten and woolly hare exhibited nocturnal patterns with high temporal overlap. Royle's pika had restricted space and time use. Stone marten may be benefiting from higher temporal overlap with the prey woolly hare and seems to be co-existing with the larger predator red fox. Temporal activity patterns of different species seem to be driven by a trade-off between consuming prey and avoidance of larger predators.
+This study in the Indian Trans-Himalaya's Spiti Valley aimed to understand competition and predation dynamics among sympatric mammal and bird species through camera trapping at 57 sites for 3 years. Results revealed Snow leopards and red foxes exhibited temporal and spatial overlap. Large livestock shared temporal activity with blue sheep and ibex but had distinct spatial patterns. Red foxes showed generalist behaviour. Stone marten and woolly hares exhibited nocturnal patterns with high temporal overlap. Royle's pika had restricted space and time use. Stone marten may be benefiting from higher temporal overlap with the prey woolly hare and seems to be co-existing with the larger predator red fox. Temporal activity patterns of different species seem to be driven by a trade-off between consuming prey and avoidance of larger predators.
 
 [Publication](https://link.springer.com/article/10.1016/j.mambio.2018.09.013)
 
 ## Talks
-- Presented "Understanding the structure and geographic variation of the complex vocal duets of Sarus Crane" at the     Animal Behaviour Society Conference in 2020.
-- Presented "Musical world of the Sarus Crane: variation and ecological dependencies of duets" at the International     Waterbird Society Conference in 2020.
+- Presented "Understanding the structure and geographic variation of the complex vocal duets of Sarus Crane" at the Animal Behaviour Society Conference in 2020.
+- Presented "Musical world of the Sarus Crane: variation and ecological dependencies of duets" at the International Waterbird Society Conference in 2020.
 
 ## Publications
-1. Roy, S., Kittur, S., & Sundar, K. G. (2022). Sarus Crane Antigone antigone trios and
-their triets: Discovery of a novel social unit in cranes. Ecology, e3707.
-2. Roy, S., Ghoshal, A., Bijoor, A., & Suryawanshi, K. (2019). Distribution and activity
-pattern of stone marten Martes foina in relation to prey and predators. Mammalian
-Biology, 96(1), 110-117
+1. Roy, S., Kittur, S., & Sundar, K. G. (2022). Sarus Crane Antigone antigone trios and their triets: Discovery of a novel social unit in cranes. Ecology, e3707.
+2. Roy, S., Ghoshal, A., Bijoor, A., & Suryawanshi, K. (2019). Distribution and activity pattern of stone marten Martes foina in relation to prey and predators. Mammalian Biology, 96(1), 110-117
